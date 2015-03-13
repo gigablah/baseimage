@@ -1,4 +1,4 @@
-FROM progrium/busybox
+FROM gliderlabs/alpine:3.1
 MAINTAINER Chris Heng <bigblah@gmail.com>
 
 ADD s6-2.0.0.1.tar.gz /
